@@ -1,5 +1,1 @@
-public void add(m,n){
-   sum=m+n;
-   system.out.println(sum);
-}
-  
+学代码真的容易秃头啊！兄弟，趁早放弃吧！
